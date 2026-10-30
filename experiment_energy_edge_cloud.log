@@ -1,0 +1,1301 @@
+[     31.90s] SFC 0 ACCEPTED | existing CNF relocations=0
+[     89.60s] SFC 1 ACCEPTED | existing CNF relocations=0
+[    115.85s] SFC 2 ACCEPTED | existing CNF relocations=0
+[    123.45s] SFC 3 ACCEPTED | existing CNF relocations=0
+[    129.12s] SFC 4 ACCEPTED | existing CNF relocations=0
+[    134.07s] SFC 5 ACCEPTED | existing CNF relocations=0
+[    156.50s] SFC 6 ACCEPTED | existing CNF relocations=0
+[    158.32s] SFC 7 ACCEPTED | existing CNF relocations=0
+[    175.86s] SFC 8 ACCEPTED | existing CNF relocations=0
+[    180.67s] SFC 0 COMPLETED
+[    186.97s] SFC 9 ACCEPTED | existing CNF relocations=0
+[    229.94s] SFC 10 ACCEPTED | existing CNF relocations=0
+[    261.37s] SFC 11 ACCEPTED | existing CNF relocations=0
+[    291.55s] SFC 12 ACCEPTED | existing CNF relocations=0
+[    298.29s] SFC 13 ACCEPTED | existing CNF relocations=0
+[    312.66s] SFC 14 ACCEPTED | existing CNF relocations=0
+[    315.30s] SFC 15 ACCEPTED | existing CNF relocations=0
+[    400.91s] SFC 16 ACCEPTED | existing CNF relocations=0
+[    412.43s] SFC 17 ACCEPTED | existing CNF relocations=0
+[    418.46s] SFC 9 COMPLETED
+[    433.44s] SFC 18 ACCEPTED | existing CNF relocations=0
+[    446.77s] SFC 19 ACCEPTED | existing CNF relocations=0
+[    462.32s] SFC 20 ACCEPTED | existing CNF relocations=0
+[    467.07s] SFC 21 ACCEPTED | existing CNF relocations=0
+[    470.61s] SFC 22 ACCEPTED | existing CNF relocations=0
+[    472.23s] SFC 23 ACCEPTED | existing CNF relocations=0
+[    516.26s] SFC 24 ACCEPTED | existing CNF relocations=0
+[    560.24s] SFC 25 ACCEPTED | existing CNF relocations=0
+[    572.98s] SFC 26 ACCEPTED | existing CNF relocations=0
+[    582.43s] SFC 10 COMPLETED
+[    611.63s] SFC 27 ACCEPTED | existing CNF relocations=0
+[    621.89s] SFC 28 ACCEPTED | existing CNF relocations=0
+[    638.16s] SFC 29 ACCEPTED | existing CNF relocations=0
+[    645.16s] SFC 30 ACCEPTED | existing CNF relocations=0
+[    659.63s] SFC 15 COMPLETED
+[    667.70s] SFC 31 ACCEPTED | existing CNF relocations=0
+[    675.67s] SFC 32 ACCEPTED | existing CNF relocations=0
+[    704.69s] SFC 33 ACCEPTED | existing CNF relocations=0
+[    737.83s] SFC 34 ACCEPTED | existing CNF relocations=0
+[    752.45s] SFC 35 ACCEPTED | existing CNF relocations=0
+[    769.73s] SFC 36 ACCEPTED | existing CNF relocations=0
+[    777.65s] SFC 37 ACCEPTED | existing CNF relocations=0
+[    778.03s] SFC 38 ACCEPTED | existing CNF relocations=0
+[    789.21s] SFC 39 ACCEPTED | existing CNF relocations=0
+[    789.61s] SFC 40 ACCEPTED | existing CNF relocations=0
+[    820.59s] SFC 41 ACCEPTED | existing CNF relocations=0
+[    838.44s] SFC 42 ACCEPTED | existing CNF relocations=0
+[    839.52s] SFC 43 ACCEPTED | existing CNF relocations=0
+[    841.34s] SFC 44 ACCEPTED | existing CNF relocations=0
+[    848.95s] SFC 45 ACCEPTED | existing CNF relocations=0
+[    849.86s] SFC 35 COMPLETED
+[    891.93s] SFC 46 ACCEPTED | existing CNF relocations=0
+[    895.83s] SFC 47 ACCEPTED | existing CNF relocations=0
+[    898.78s] SFC 48 ACCEPTED | existing CNF relocations=0
+[    903.73s] SFC 49 ACCEPTED | existing CNF relocations=0
+[    903.95s] SFC 50 ACCEPTED | existing CNF relocations=0
+[    904.47s] SFC 34 COMPLETED
+[    911.11s] SFC 37 COMPLETED
+[    931.36s] SFC 28 COMPLETED
+[    939.57s] SFC 51 ACCEPTED | existing CNF relocations=0
+[    948.01s] SFC 52 ACCEPTED | existing CNF relocations=0
+[    968.13s] SFC 53 ACCEPTED | existing CNF relocations=0
+[    975.15s] SFC 54 ACCEPTED | existing CNF relocations=0
+[    977.63s] SFC 55 ACCEPTED | existing CNF relocations=0
+[    983.45s] SFC 56 ACCEPTED | existing CNF relocations=0
+[    984.15s] SFC 43 COMPLETED
+[   1021.60s] SFC 57 ACCEPTED | existing CNF relocations=0
+[   1030.02s] SFC 58 ACCEPTED | existing CNF relocations=0
+[   1031.46s] SFC 59 ACCEPTED | existing CNF relocations=0
+[   1034.45s] SFC 60 ACCEPTED | existing CNF relocations=0
+[   1042.61s] SFC 61 ACCEPTED | existing CNF relocations=0
+[   1061.63s] SFC 13 COMPLETED
+[   1077.81s] SFC 62 ACCEPTED | existing CNF relocations=0
+[   1098.97s] SFC 63 ACCEPTED | existing CNF relocations=0
+[   1104.11s] SFC 64 ACCEPTED | existing CNF relocations=0
+[   1141.18s] SFC 65 ACCEPTED | existing CNF relocations=0
+[   1158.00s] SFC 61 COMPLETED
+[   1165.33s] SFC 66 ACCEPTED | existing CNF relocations=0
+[   1172.09s] SFC 67 ACCEPTED | existing CNF relocations=0
+[   1200.47s] SFC 68 ACCEPTED | existing CNF relocations=0
+[   1209.67s] SFC 69 ACCEPTED | existing CNF relocations=0
+[   1222.96s] SFC 21 COMPLETED
+[   1226.86s] SFC 70 ACCEPTED | existing CNF relocations=0
+[   1229.25s] SFC 71 ACCEPTED | existing CNF relocations=0
+[   1248.71s] SFC 72 ACCEPTED | existing CNF relocations=0
+[   1248.95s] SFC 73 ACCEPTED | existing CNF relocations=0
+[   1257.45s] SFC 73 COMPLETED
+[   1260.94s] SFC 72 COMPLETED
+[   1278.61s] SFC 74 ACCEPTED | existing CNF relocations=0
+[   1282.23s] SFC 75 ACCEPTED | existing CNF relocations=0
+[   1298.09s] SFC 12 COMPLETED
+[   1308.20s] SFC 66 COMPLETED
+[   1317.70s] SFC 76 ACCEPTED | existing CNF relocations=0
+[   1321.15s] SFC 77 ACCEPTED | existing CNF relocations=0
+[   1329.81s] SFC 78 ACCEPTED | existing CNF relocations=0
+[   1371.84s] SFC 79 ACCEPTED | existing CNF relocations=0
+[   1405.72s] SFC 80 ACCEPTED | existing CNF relocations=0
+[   1409.33s] SFC 78 COMPLETED
+[   1434.86s] SFC 81 ACCEPTED | existing CNF relocations=0
+[   1470.08s] SFC 82 ACCEPTED | existing CNF relocations=0
+[   1470.67s] SFC 5 COMPLETED
+[   1470.82s] SFC 83 ACCEPTED | existing CNF relocations=0
+[   1484.83s] SFC 84 ACCEPTED | existing CNF relocations=0
+[   1499.20s] SFC 85 ACCEPTED | existing CNF relocations=0
+[   1522.90s] SFC 86 ACCEPTED | existing CNF relocations=0
+[   1526.63s] SFC 7 COMPLETED
+[   1534.60s] SFC 87 ACCEPTED | existing CNF relocations=0
+[   1547.56s] SFC 52 COMPLETED
+[   1552.12s] SFC 88 ACCEPTED | existing CNF relocations=0
+[   1555.48s] SFC 89 ACCEPTED | existing CNF relocations=0
+[   1555.64s] SFC 90 ACCEPTED | existing CNF relocations=0
+[   1562.70s] SFC 91 ACCEPTED | existing CNF relocations=0
+[   1569.77s] SFC 92 ACCEPTED | existing CNF relocations=0
+[   1575.16s] SFC 93 ACCEPTED | existing CNF relocations=0
+[   1581.02s] SFC 94 ACCEPTED | existing CNF relocations=0
+[   1583.40s] SFC 95 ACCEPTED | existing CNF relocations=0
+[   1588.10s] SFC 96 ACCEPTED | existing CNF relocations=0
+[   1621.44s] SFC 97 ACCEPTED | existing CNF relocations=0
+[   1630.29s] SFC 98 ACCEPTED | existing CNF relocations=0
+[   1632.26s] SFC 99 ACCEPTED | existing CNF relocations=0
+[   1641.76s] SFC 44 COMPLETED
+[   1643.28s] SFC 100 ACCEPTED | existing CNF relocations=0
+[   1647.54s] SFC 30 COMPLETED
+[   1653.68s] SFC 85 COMPLETED
+[   1671.96s] SFC 101 ACCEPTED | existing CNF relocations=0
+[   1692.57s] SFC 102 ACCEPTED | existing CNF relocations=0
+[   1699.57s] SFC 103 ACCEPTED | existing CNF relocations=0
+[   1700.51s] SFC 92 COMPLETED
+[   1718.88s] SFC 41 COMPLETED
+[   1742.80s] SFC 104 ACCEPTED | existing CNF relocations=0
+[   1770.92s] SFC 105 ACCEPTED | existing CNF relocations=0
+[   1799.19s] SFC 106 ACCEPTED | existing CNF relocations=0
+[   1800.28s] SFC 107 ACCEPTED | existing CNF relocations=0
+[   1814.21s] SFC 108 ACCEPTED | existing CNF relocations=0
+[   1825.71s] SFC 109 ACCEPTED | existing CNF relocations=0
+[   1829.91s] SFC 110 ACCEPTED | existing CNF relocations=0
+[   1831.38s] SFC 102 COMPLETED
+[   1835.10s] SFC 20 COMPLETED
+[   1886.04s] SFC 97 COMPLETED
+[   1906.40s] SFC 111 ACCEPTED | existing CNF relocations=0
+[   1909.52s] SFC 112 ACCEPTED | existing CNF relocations=0
+[   1910.65s] SFC 113 ACCEPTED | existing CNF relocations=0
+[   1911.13s] SFC 114 ACCEPTED | existing CNF relocations=0
+[   1930.50s] SFC 115 ACCEPTED | existing CNF relocations=0
+[   1935.58s] SFC 116 ACCEPTED | existing CNF relocations=0
+[   1958.29s] SFC 1 COMPLETED
+[   1986.25s] SFC 117 ACCEPTED | existing CNF relocations=0
+[   1988.15s] SFC 118 ACCEPTED | existing CNF relocations=0
+[   2001.70s] SFC 119 ACCEPTED | existing CNF relocations=0
+[   2017.25s] SFC 120 ACCEPTED | existing CNF relocations=0
+[   2026.17s] SFC 121 ACCEPTED | existing CNF relocations=0
+[   2038.80s] SFC 122 ACCEPTED | existing CNF relocations=0
+[   2045.47s] SFC 123 ACCEPTED | existing CNF relocations=0
+[   2062.75s] SFC 124 ACCEPTED | existing CNF relocations=0
+[   2078.89s] SFC 125 ACCEPTED | existing CNF relocations=0
+[   2090.43s] SFC 116 COMPLETED
+[   2098.29s] SFC 105 COMPLETED
+[   2099.85s] SFC 126 ACCEPTED | existing CNF relocations=0
+[   2113.99s] SFC 125 COMPLETED
+[   2129.07s] SFC 127 ACCEPTED | existing CNF relocations=0
+[   2131.05s] SFC 32 COMPLETED
+[   2164.64s] SFC 128 ACCEPTED | existing CNF relocations=0
+[   2171.89s] SFC 107 COMPLETED
+[   2196.31s] SFC 129 ACCEPTED | existing CNF relocations=0
+[   2217.32s] SFC 130 ACCEPTED | existing CNF relocations=0
+[   2218.83s] SFC 131 ACCEPTED | existing CNF relocations=0
+[   2220.01s] SFC 132 ACCEPTED | existing CNF relocations=0
+[   2220.28s] SFC 133 ACCEPTED | existing CNF relocations=0
+[   2254.21s] SFC 134 ACCEPTED | existing CNF relocations=0
+[   2272.51s] SFC 135 ACCEPTED | existing CNF relocations=0
+[   2280.77s] SFC 136 ACCEPTED | existing CNF relocations=0
+[   2295.39s] SFC 137 ACCEPTED | existing CNF relocations=1
+[   2307.90s] SFC 138 ACCEPTED | existing CNF relocations=0
+[   2331.46s] SFC 139 ACCEPTED | existing CNF relocations=0
+[   2337.32s] SFC 140 ACCEPTED | existing CNF relocations=0
+[   2367.27s] SFC 141 ACCEPTED | existing CNF relocations=0
+[   2369.34s] SFC 132 COMPLETED
+[   2400.03s] SFC 119 COMPLETED
+[   2407.27s] SFC 48 COMPLETED
+[   2428.71s] SFC 142 ACCEPTED | existing CNF relocations=1
+[   2456.65s] SFC 6 COMPLETED
+[   2461.38s] SFC 143 ACCEPTED | existing CNF relocations=0
+[   2464.51s] SFC 130 COMPLETED
+[   2498.50s] SFC 144 ACCEPTED | existing CNF relocations=0
+[   2510.62s] SFC 145 ACCEPTED | existing CNF relocations=0
+[   2522.28s] SFC 146 ACCEPTED | existing CNF relocations=1
+[   2528.46s] SFC 147 ACCEPTED | existing CNF relocations=0
+[   2535.88s] SFC 143 COMPLETED
+[   2536.76s] SFC 148 ACCEPTED | existing CNF relocations=0
+[   2539.10s] SFC 149 ACCEPTED | existing CNF relocations=0
+[   2540.80s] SFC 55 COMPLETED
+[   2546.06s] SFC 150 ACCEPTED | existing CNF relocations=0
+[   2555.34s] SFC 151 ACCEPTED | existing CNF relocations=0
+[   2556.34s] SFC 36 COMPLETED
+[   2566.33s] SFC 19 COMPLETED
+[   2571.13s] SFC 152 ACCEPTED | existing CNF relocations=0
+[   2573.95s] SFC 153 ACCEPTED | existing CNF relocations=0
+[   2590.17s] SFC 154 ACCEPTED | existing CNF relocations=0
+[   2592.00s] SFC 155 ACCEPTED | existing CNF relocations=0
+[   2592.57s] SFC 156 ACCEPTED | existing CNF relocations=0
+[   2595.55s] SFC 120 COMPLETED
+[   2599.28s] SFC 157 ACCEPTED | existing CNF relocations=0
+[   2606.57s] SFC 158 ACCEPTED | existing CNF relocations=0
+[   2632.33s] SFC 159 ACCEPTED | existing CNF relocations=0
+[   2648.48s] SFC 160 ACCEPTED | existing CNF relocations=0
+[   2652.68s] SFC 3 COMPLETED
+[   2677.81s] SFC 150 COMPLETED
+[   2695.05s] SFC 161 ACCEPTED | existing CNF relocations=0
+[   2695.38s] SFC 90 COMPLETED
+[   2714.72s] SFC 162 ACCEPTED | existing CNF relocations=0
+[   2747.15s] SFC 163 ACCEPTED | existing CNF relocations=0
+[   2774.68s] SFC 164 ACCEPTED | existing CNF relocations=0
+[   2800.81s] SFC 22 COMPLETED
+[   2828.84s] SFC 165 ACCEPTED | existing CNF relocations=0
+[   2834.29s] SFC 134 COMPLETED
+[   2862.60s] SFC 166 ACCEPTED | existing CNF relocations=0
+[   2871.13s] SFC 167 ACCEPTED | existing CNF relocations=1
+[   2875.04s] SFC 124 COMPLETED
+[   2881.55s] SFC 168 ACCEPTED | existing CNF relocations=0
+[   2900.60s] SFC 42 COMPLETED
+[   2910.34s] SFC 98 COMPLETED
+[   2912.88s] SFC 96 COMPLETED
+[   2935.29s] SFC 169 ACCEPTED | existing CNF relocations=0
+[   2946.71s] SFC 170 ACCEPTED | existing CNF relocations=0
+[   2959.29s] SFC 171 ACCEPTED | existing CNF relocations=0
+[   2963.46s] SFC 172 ACCEPTED | existing CNF relocations=0
+[   2969.39s] SFC 81 COMPLETED
+[   3000.49s] SFC 173 ACCEPTED | existing CNF relocations=0
+[   3002.76s] SFC 166 COMPLETED
+[   3021.05s] SFC 174 ACCEPTED | existing CNF relocations=0
+[   3043.97s] SFC 170 COMPLETED
+[   3070.92s] SFC 175 ACCEPTED | existing CNF relocations=0
+[   3079.14s] SFC 71 COMPLETED
+[   3085.23s] SFC 176 ACCEPTED | existing CNF relocations=0
+[   3087.13s] SFC 177 ACCEPTED | existing CNF relocations=0
+[   3105.11s] SFC 156 COMPLETED
+[   3112.61s] SFC 178 ACCEPTED | existing CNF relocations=0
+[   3130.45s] SFC 84 COMPLETED
+[   3139.47s] SFC 179 ACCEPTED | existing CNF relocations=0
+[   3140.00s] SFC 180 ACCEPTED | existing CNF relocations=0
+[   3146.72s] SFC 181 ACCEPTED | existing CNF relocations=0
+[   3147.97s] SFC 182 ACCEPTED | existing CNF relocations=0
+[   3155.24s] SFC 183 ACCEPTED | existing CNF relocations=0
+[   3172.99s] SFC 161 COMPLETED
+[   3182.87s] SFC 155 COMPLETED
+[   3191.29s] SFC 183 COMPLETED
+[   3218.02s] SFC 184 ACCEPTED | existing CNF relocations=0
+[   3220.89s] SFC 63 COMPLETED
+[   3221.58s] SFC 144 COMPLETED
+[   3232.61s] SFC 64 COMPLETED
+[   3233.58s] SFC 185 ACCEPTED | existing CNF relocations=0
+[   3237.51s] SFC 186 ACCEPTED | existing CNF relocations=0
+[   3277.14s] SFC 187 ACCEPTED | existing CNF relocations=0
+[   3285.03s] SFC 188 ACCEPTED | existing CNF relocations=0
+[   3289.58s] SFC 189 ACCEPTED | existing CNF relocations=0
+[   3291.62s] SFC 190 ACCEPTED | existing CNF relocations=0
+[   3295.40s] SFC 165 COMPLETED
+[   3296.74s] SFC 191 ACCEPTED | existing CNF relocations=0
+[   3297.21s] SFC 17 COMPLETED
+[   3303.09s] SFC 187 COMPLETED
+[   3304.45s] SFC 192 ACCEPTED | existing CNF relocations=0
+[   3310.48s] SFC 193 ACCEPTED | existing CNF relocations=0
+[   3327.80s] SFC 194 ACCEPTED | existing CNF relocations=0
+[   3329.24s] SFC 195 ACCEPTED | existing CNF relocations=0
+[   3332.16s] SFC 196 ACCEPTED | existing CNF relocations=0
+[   3334.45s] SFC 197 ACCEPTED | existing CNF relocations=0
+[   3339.22s] SFC 198 ACCEPTED | existing CNF relocations=0
+[   3347.21s] SFC 199 ACCEPTED | existing CNF relocations=0
+[   3349.64s] SFC 200 ACCEPTED | existing CNF relocations=0
+[   3370.40s] SFC 201 ACCEPTED | existing CNF relocations=0
+[   3384.12s] SFC 202 ACCEPTED | existing CNF relocations=0
+[   3399.45s] SFC 203 ACCEPTED | existing CNF relocations=0
+[   3400.97s] SFC 204 ACCEPTED | existing CNF relocations=0
+[   3401.21s] SFC 176 COMPLETED
+[   3418.34s] SFC 205 ACCEPTED | existing CNF relocations=0
+[   3427.35s] SFC 206 ACCEPTED | existing CNF relocations=0
+[   3436.60s] SFC 67 COMPLETED
+[   3441.18s] SFC 181 COMPLETED
+[   3451.56s] SFC 129 COMPLETED
+[   3463.27s] SFC 177 COMPLETED
+[   3467.04s] SFC 207 ACCEPTED | existing CNF relocations=0
+[   3472.99s] SFC 208 ACCEPTED | existing CNF relocations=0
+[   3476.50s] SFC 209 ACCEPTED | existing CNF relocations=0
+[   3483.72s] SFC 110 COMPLETED
+[   3490.51s] SFC 210 ACCEPTED | existing CNF relocations=0
+[   3507.84s] SFC 112 COMPLETED
+[   3511.30s] SFC 211 ACCEPTED | existing CNF relocations=0
+[   3517.70s] SFC 199 COMPLETED
+[   3536.32s] SFC 212 ACCEPTED | existing CNF relocations=0
+[   3591.30s] SFC 213 ACCEPTED | existing CNF relocations=0
+[   3593.93s] SFC 214 ACCEPTED | existing CNF relocations=0
+[   3595.48s] SFC 215 ACCEPTED | existing CNF relocations=0
+[   3595.52s] SFC 216 ACCEPTED | existing CNF relocations=0
+[   3597.01s] SFC 4 COMPLETED
+[   3602.12s] SFC 217 ACCEPTED | existing CNF relocations=1
+[   3610.61s] SFC 218 ACCEPTED | existing CNF relocations=0
+[   3615.34s] SFC 219 ACCEPTED | existing CNF relocations=0
+[   3625.06s] SFC 220 ACCEPTED | existing CNF relocations=0
+[   3631.79s] SFC 221 ACCEPTED | existing CNF relocations=0
+[   3632.89s] SFC 205 COMPLETED
+[   3667.24s] SFC 222 ACCEPTED | existing CNF relocations=0
+[   3668.71s] SFC 11 COMPLETED
+[   3676.70s] SFC 223 ACCEPTED | existing CNF relocations=0
+[   3683.11s] SFC 224 ACCEPTED | existing CNF relocations=0
+[   3688.15s] SFC 225 ACCEPTED | existing CNF relocations=0
+[   3691.00s] SFC 226 ACCEPTED | existing CNF relocations=0
+[   3692.87s] SFC 227 ACCEPTED | existing CNF relocations=0
+[   3697.67s] SFC 118 COMPLETED
+[   3706.34s] SFC 228 ACCEPTED | existing CNF relocations=0
+[   3707.42s] SFC 229 ACCEPTED | existing CNF relocations=0
+[   3729.07s] SFC 230 ACCEPTED | existing CNF relocations=0
+[   3732.01s] SFC 27 COMPLETED
+[   3745.98s] SFC 231 ACCEPTED | existing CNF relocations=0
+[   3753.29s] SFC 232 ACCEPTED | existing CNF relocations=0
+[   3754.24s] SFC 233 ACCEPTED | existing CNF relocations=0
+[   3765.84s] SFC 234 ACCEPTED | existing CNF relocations=0
+[   3768.80s] SFC 235 ACCEPTED | existing CNF relocations=1
+[   3770.07s] SFC 236 ACCEPTED | existing CNF relocations=0
+[   3774.19s] SFC 237 ACCEPTED | existing CNF relocations=0
+[   3781.22s] SFC 238 ACCEPTED | existing CNF relocations=0
+[   3786.70s] SFC 239 ACCEPTED | existing CNF relocations=0
+[   3792.45s] SFC 240 ACCEPTED | existing CNF relocations=0
+[   3801.50s] SFC 241 ACCEPTED | existing CNF relocations=0
+[   3802.82s] SFC 242 ACCEPTED | existing CNF relocations=0
+[   3804.62s] SFC 54 COMPLETED
+[   3811.14s] SFC 243 ACCEPTED | existing CNF relocations=0
+[   3815.39s] SFC 244 ACCEPTED | existing CNF relocations=0
+[   3816.69s] SFC 208 COMPLETED
+[   3822.31s] SFC 29 COMPLETED
+[   3822.81s] SFC 227 COMPLETED
+[   3848.47s] SFC 245 ACCEPTED | existing CNF relocations=0
+[   3858.41s] SFC 246 ACCEPTED | existing CNF relocations=0
+[   3862.72s] SFC 247 ACCEPTED | existing CNF relocations=0
+[   3871.03s] SFC 248 ACCEPTED | existing CNF relocations=0
+[   3881.34s] SFC 249 ACCEPTED | existing CNF relocations=0
+[   3882.64s] SFC 250 ACCEPTED | existing CNF relocations=0
+[   3883.59s] SFC 251 ACCEPTED | existing CNF relocations=0
+[   3887.75s] SFC 252 ACCEPTED | existing CNF relocations=0
+[   3904.23s] SFC 196 COMPLETED
+[   3907.25s] SFC 253 ACCEPTED | existing CNF relocations=0
+[   3924.16s] SFC 95 COMPLETED
+[   3930.45s] SFC 254 ACCEPTED | existing CNF relocations=1
+[   3931.63s] SFC 255 ACCEPTED | existing CNF relocations=0
+[   3935.32s] SFC 256 ACCEPTED | existing CNF relocations=0
+[   3941.12s] SFC 257 ACCEPTED | existing CNF relocations=0
+[   3942.99s] SFC 258 ACCEPTED | existing CNF relocations=0
+[   3943.40s] SFC 135 COMPLETED
+[   3953.60s] SFC 259 ACCEPTED | existing CNF relocations=0
+[   3955.89s] SFC 260 ACCEPTED | existing CNF relocations=0
+[   3956.91s] SFC 108 COMPLETED
+[   3959.76s] SFC 261 ACCEPTED | existing CNF relocations=0
+[   3961.39s] SFC 262 ACCEPTED | existing CNF relocations=0
+[   3962.17s] SFC 263 ACCEPTED | existing CNF relocations=0
+[   3965.04s] SFC 264 ACCEPTED | existing CNF relocations=1
+[   3966.80s] SFC 145 COMPLETED
+[   3969.58s] SFC 265 ACCEPTED | existing CNF relocations=0
+[   3975.80s] SFC 266 ACCEPTED | existing CNF relocations=0
+[   3980.22s] SFC 162 COMPLETED
+[   3982.95s] SFC 230 COMPLETED
+[   3996.61s] SFC 242 COMPLETED
+[   3998.57s] SFC 267 ACCEPTED | existing CNF relocations=0
+[   4003.76s] SFC 268 ACCEPTED | existing CNF relocations=0
+[   4005.84s] SFC 269 ACCEPTED | existing CNF relocations=0
+[   4006.31s] SFC 270 ACCEPTED | existing CNF relocations=0
+[   4007.35s] SFC 121 COMPLETED
+[   4014.09s] SFC 247 COMPLETED
+[   4015.42s] SFC 271 ACCEPTED | existing CNF relocations=3
+[   4019.77s] SFC 101 COMPLETED
+[   4020.20s] SFC 272 ACCEPTED | existing CNF relocations=0
+[   4020.28s] SFC 270 COMPLETED
+[   4024.53s] SFC 273 ACCEPTED | existing CNF relocations=0
+[   4026.37s] SFC 274 ACCEPTED | existing CNF relocations=0
+[   4034.83s] SFC 189 COMPLETED
+[   4044.75s] SFC 275 ACCEPTED | existing CNF relocations=1
+[   4051.33s] SFC 276 ACCEPTED | existing CNF relocations=0
+[   4051.58s] SFC 277 ACCEPTED | existing CNF relocations=0
+[   4052.29s] SFC 278 ACCEPTED | existing CNF relocations=0
+[   4054.08s] SFC 279 ACCEPTED | existing CNF relocations=0
+[   4065.27s] SFC 280 ACCEPTED | existing CNF relocations=0
+[   4071.00s] SFC 198 COMPLETED
+[   4072.98s] SFC 185 COMPLETED
+[   4073.91s] SFC 114 COMPLETED
+[   4082.12s] SFC 281 ACCEPTED | existing CNF relocations=0
+[   4092.04s] SFC 210 COMPLETED
+[   4099.74s] SFC 282 ACCEPTED | existing CNF relocations=0
+[   4108.22s] SFC 65 COMPLETED
+[   4123.06s] SFC 283 ACCEPTED | existing CNF relocations=0
+[   4128.92s] SFC 284 ACCEPTED | existing CNF relocations=0
+[   4143.11s] SFC 285 ACCEPTED | existing CNF relocations=0
+[   4144.19s] SFC 286 ACCEPTED | existing CNF relocations=0
+[   4156.37s] SFC 283 COMPLETED
+[   4159.19s] SFC 287 ACCEPTED | existing CNF relocations=0
+[   4161.20s] SFC 269 COMPLETED
+[   4180.76s] SFC 288 ACCEPTED | existing CNF relocations=0
+[   4195.36s] SFC 289 ACCEPTED | existing CNF relocations=0
+[   4195.65s] SFC 56 COMPLETED
+[   4210.52s] SFC 290 ACCEPTED | existing CNF relocations=0
+[   4212.98s] SFC 291 ACCEPTED | existing CNF relocations=0
+[   4227.71s] SFC 212 COMPLETED
+[   4230.54s] SFC 292 ACCEPTED | existing CNF relocations=0
+[   4252.33s] SFC 271 COMPLETED
+[   4263.62s] SFC 282 COMPLETED
+[   4273.63s] SFC 147 COMPLETED
+[   4275.41s] SFC 293 ACCEPTED | existing CNF relocations=0
+[   4278.29s] SFC 294 ACCEPTED | existing CNF relocations=0
+[   4278.60s] SFC 40 COMPLETED
+[   4288.35s] SFC 207 COMPLETED
+[   4288.93s] SFC 295 ACCEPTED | existing CNF relocations=0
+[   4296.88s] SFC 296 ACCEPTED | existing CNF relocations=0
+[   4299.61s] SFC 297 ACCEPTED | existing CNF relocations=0
+[   4304.00s] SFC 284 COMPLETED
+[   4312.73s] SFC 298 ACCEPTED | existing CNF relocations=0
+[   4317.32s] SFC 299 ACCEPTED | existing CNF relocations=0
+[   4328.74s] SFC 300 ACCEPTED | existing CNF relocations=0
+[   4335.31s] SFC 301 ACCEPTED | existing CNF relocations=0
+[   4336.42s] SFC 302 ACCEPTED | existing CNF relocations=1
+[   4351.99s] SFC 300 COMPLETED
+[   4363.27s] SFC 133 COMPLETED
+[   4366.81s] SFC 303 ACCEPTED | existing CNF relocations=0
+[   4376.44s] SFC 304 ACCEPTED | existing CNF relocations=0
+[   4379.29s] SFC 305 ACCEPTED | existing CNF relocations=0
+[   4381.64s] SFC 306 ACCEPTED | existing CNF relocations=0
+[   4385.04s] SFC 307 ACCEPTED | existing CNF relocations=0
+[   4387.93s] SFC 308 ACCEPTED | existing CNF relocations=0
+[   4388.07s] SFC 309 ACCEPTED | existing CNF relocations=0
+[   4395.62s] SFC 310 ACCEPTED | existing CNF relocations=1
+[   4404.92s] SFC 115 COMPLETED
+[   4413.57s] SFC 311 ACCEPTED | existing CNF relocations=0
+[   4415.03s] SFC 274 COMPLETED
+[   4415.22s] SFC 215 COMPLETED
+[   4419.69s] SFC 312 ACCEPTED | existing CNF relocations=0
+[   4421.67s] SFC 313 ACCEPTED | existing CNF relocations=0
+[   4428.90s] SFC 314 ACCEPTED | existing CNF relocations=0
+[   4431.20s] SFC 315 ACCEPTED | existing CNF relocations=1
+[   4443.43s] SFC 316 ACCEPTED | existing CNF relocations=0
+[   4444.65s] SFC 317 ACCEPTED | existing CNF relocations=0
+[   4445.63s] SFC 318 ACCEPTED | existing CNF relocations=0
+[   4453.40s] SFC 319 ACCEPTED | existing CNF relocations=0
+[   4453.51s] SFC 320 ACCEPTED | existing CNF relocations=0
+[   4455.03s] SFC 321 ACCEPTED | existing CNF relocations=0
+[   4480.39s] SFC 153 COMPLETED
+[   4481.30s] SFC 322 ACCEPTED | existing CNF relocations=0
+[   4483.94s] SFC 253 COMPLETED
+[   4491.74s] SFC 323 ACCEPTED | existing CNF relocations=0
+[   4499.69s] SFC 324 ACCEPTED | existing CNF relocations=0
+[   4502.95s] SFC 325 ACCEPTED | existing CNF relocations=0
+[   4503.47s] SFC 326 ACCEPTED | existing CNF relocations=0
+[   4515.25s] SFC 327 ACCEPTED | existing CNF relocations=0
+[   4520.24s] SFC 328 ACCEPTED | existing CNF relocations=0
+[   4522.44s] SFC 329 ACCEPTED | existing CNF relocations=0
+[   4525.55s] SFC 330 ACCEPTED | existing CNF relocations=0
+[   4526.07s] SFC 331 ACCEPTED | existing CNF relocations=0
+[   4526.26s] SFC 332 ACCEPTED | existing CNF relocations=1
+[   4528.63s] SFC 333 ACCEPTED | existing CNF relocations=0
+[   4537.72s] SFC 334 ACCEPTED | existing CNF relocations=0
+[   4540.52s] SFC 318 COMPLETED
+[   4541.35s] SFC 335 ACCEPTED | existing CNF relocations=0
+[   4560.46s] SFC 336 ACCEPTED | existing CNF relocations=1
+[   4561.77s] SFC 337 ACCEPTED | existing CNF relocations=0
+[   4565.19s] SFC 338 ACCEPTED | existing CNF relocations=0
+[   4569.32s] SFC 339 ACCEPTED | existing CNF relocations=0
+[   4575.86s] SFC 340 ACCEPTED | existing CNF relocations=0
+[   4585.81s] SFC 341 ACCEPTED | existing CNF relocations=2
+[   4592.94s] SFC 342 ACCEPTED | existing CNF relocations=2
+[   4597.18s] SFC 343 ACCEPTED | existing CNF relocations=0
+[   4603.16s] SFC 232 COMPLETED
+[   4605.51s] SFC 344 ACCEPTED | existing CNF relocations=3
+[   4616.82s] SFC 345 ACCEPTED | existing CNF relocations=0
+[   4619.14s] SFC 346 ACCEPTED | existing CNF relocations=0
+[   4621.57s] SFC 347 ACCEPTED | existing CNF relocations=0
+[   4640.99s] SFC 348 ACCEPTED | existing CNF relocations=0
+[   4644.00s] SFC 209 COMPLETED
+[   4650.86s] SFC 349 ACCEPTED | existing CNF relocations=0
+[   4655.64s] SFC 350 ACCEPTED | existing CNF relocations=0
+[   4663.94s] SFC 351 ACCEPTED | existing CNF relocations=0
+[   4671.99s] SFC 239 COMPLETED
+[   4672.12s] SFC 352 ACCEPTED | existing CNF relocations=2
+[   4676.14s] SFC 255 COMPLETED
+[   4686.17s] SFC 353 ACCEPTED | existing CNF relocations=0
+[   4686.48s] SFC 60 COMPLETED
+[   4687.49s] SFC 74 COMPLETED
+[   4694.60s] SFC 354 ACCEPTED | existing CNF relocations=0
+[   4695.40s] SFC 355 ACCEPTED | existing CNF relocations=0
+[   4700.65s] SFC 356 ACCEPTED | existing CNF relocations=0
+[   4701.15s] SFC 197 COMPLETED
+[   4706.41s] SFC 291 COMPLETED
+[   4707.98s] SFC 51 COMPLETED
+[   4712.05s] SFC 357 ACCEPTED | existing CNF relocations=0
+[   4725.99s] SFC 358 ACCEPTED | existing CNF relocations=0
+[   4732.47s] SFC 359 ACCEPTED | existing CNF relocations=0
+[   4735.24s] SFC 104 COMPLETED
+[   4736.34s] SFC 225 COMPLETED
+[   4738.50s] SFC 229 COMPLETED
+[   4740.09s] SFC 89 COMPLETED
+[   4744.06s] SFC 223 COMPLETED
+[   4754.08s] SFC 332 COMPLETED
+[   4754.62s] SFC 297 COMPLETED
+[   4764.93s] SFC 360 ACCEPTED | existing CNF relocations=3
+[   4765.57s] SFC 258 COMPLETED
+[   4771.81s] SFC 361 ACCEPTED | existing CNF relocations=2
+[   4776.12s] SFC 362 ACCEPTED | existing CNF relocations=2
+[   4779.61s] SFC 358 COMPLETED
+[   4781.99s] SFC 363 ACCEPTED | existing CNF relocations=0
+[   4793.63s] SFC 136 COMPLETED
+[   4800.59s] SFC 222 COMPLETED
+[   4800.99s] SFC 154 COMPLETED
+[   4809.87s] SFC 127 COMPLETED
+[   4810.76s] SFC 277 COMPLETED
+[   4814.84s] SFC 221 COMPLETED
+[   4827.77s] SFC 354 COMPLETED
+[   4828.66s] SFC 364 ACCEPTED | existing CNF relocations=3
+[   4836.14s] SFC 365 ACCEPTED | existing CNF relocations=0
+[   4836.32s] SFC 257 COMPLETED
+[   4847.29s] SFC 49 COMPLETED
+[   4857.44s] SFC 184 COMPLETED
+[   4881.45s] SFC 366 ACCEPTED | existing CNF relocations=0
+[   4887.91s] SFC 367 ACCEPTED | existing CNF relocations=2
+[   4890.57s] SFC 86 COMPLETED
+[   4903.32s] SFC 368 ACCEPTED | existing CNF relocations=0
+[   4910.48s] SFC 369 ACCEPTED | existing CNF relocations=0
+[   4912.40s] SFC 361 COMPLETED
+[   4915.61s] SFC 345 COMPLETED
+[   4919.56s] SFC 308 COMPLETED
+[   4923.49s] SFC 273 COMPLETED
+[   4935.05s] SFC 370 ACCEPTED | existing CNF relocations=2
+[   4944.20s] SFC 312 COMPLETED
+[   4945.96s] SFC 371 ACCEPTED | existing CNF relocations=0
+[   4947.48s] SFC 372 ACCEPTED | existing CNF relocations=0
+[   4950.92s] SFC 373 ACCEPTED | existing CNF relocations=0
+[   4958.46s] SFC 374 ACCEPTED | existing CNF relocations=0
+[   4984.54s] SFC 375 ACCEPTED | existing CNF relocations=0
+[   4987.52s] SFC 376 ACCEPTED | existing CNF relocations=0
+[   4994.70s] SFC 298 COMPLETED
+[   4995.39s] SFC 377 ACCEPTED | existing CNF relocations=0
+[   4996.69s] SFC 378 ACCEPTED | existing CNF relocations=0
+[   4999.03s] SFC 377 COMPLETED
+[   5000.27s] SFC 379 ACCEPTED | existing CNF relocations=0
+[   5005.88s] SFC 380 ACCEPTED | existing CNF relocations=2
+[   5018.80s] SFC 381 ACCEPTED | existing CNF relocations=0
+[   5019.43s] SFC 382 ACCEPTED | existing CNF relocations=0
+[   5034.62s] SFC 383 ACCEPTED | existing CNF relocations=0
+[   5043.84s] SFC 384 ACCEPTED | existing CNF relocations=0
+[   5054.05s] SFC 75 COMPLETED
+[   5066.57s] SFC 31 COMPLETED
+[   5068.19s] SFC 385 ACCEPTED | existing CNF relocations=3
+[   5069.19s] SFC 175 COMPLETED
+[   5074.49s] SFC 111 COMPLETED
+[   5076.16s] SFC 386 ACCEPTED | existing CNF relocations=3
+[   5079.36s] SFC 387 ACCEPTED | existing CNF relocations=0
+[   5095.87s] SFC 279 COMPLETED
+[   5105.09s] SFC 250 COMPLETED
+[   5116.29s] SFC 331 COMPLETED
+[   5119.59s] SFC 388 ACCEPTED | existing CNF relocations=0
+[   5122.15s] SFC 389 ACCEPTED | existing CNF relocations=0
+[   5137.59s] SFC 286 COMPLETED
+[   5151.61s] SFC 200 COMPLETED
+[   5161.70s] SFC 390 ACCEPTED | existing CNF relocations=0
+[   5166.54s] SFC 391 ACCEPTED | existing CNF relocations=0
+[   5171.54s] SFC 240 COMPLETED
+[   5178.43s] SFC 392 ACCEPTED | existing CNF relocations=0
+[   5188.79s] SFC 393 ACCEPTED | existing CNF relocations=0
+[   5192.62s] SFC 394 ACCEPTED | existing CNF relocations=0
+[   5197.17s] SFC 395 ACCEPTED | existing CNF relocations=0
+[   5198.70s] SFC 46 COMPLETED
+[   5209.41s] SFC 396 ACCEPTED | existing CNF relocations=3
+[   5215.87s] SFC 397 ACCEPTED | existing CNF relocations=0
+[   5221.95s] SFC 80 COMPLETED
+[   5224.41s] SFC 398 ACCEPTED | existing CNF relocations=0
+[   5224.58s] SFC 399 ACCEPTED | existing CNF relocations=0
+[   5232.73s] SFC 262 COMPLETED
+[   5243.63s] SFC 400 ACCEPTED | existing CNF relocations=0
+[   5255.80s] SFC 401 ACCEPTED | existing CNF relocations=0
+[   5260.89s] SFC 402 ACCEPTED | existing CNF relocations=2
+[   5262.77s] SFC 337 COMPLETED
+[   5263.03s] SFC 324 COMPLETED
+[   5266.35s] SFC 396 COMPLETED
+[   5277.98s] SFC 403 ACCEPTED | existing CNF relocations=2
+[   5288.44s] SFC 404 ACCEPTED | existing CNF relocations=1
+[   5310.48s] SFC 405 ACCEPTED | existing CNF relocations=0
+[   5332.86s] SFC 201 COMPLETED
+[   5334.65s] SFC 406 ACCEPTED | existing CNF relocations=0
+[   5336.53s] SFC 38 COMPLETED
+[   5342.94s] SFC 211 COMPLETED
+[   5346.80s] SFC 407 ACCEPTED | existing CNF relocations=3
+[   5347.62s] SFC 408 ACCEPTED | existing CNF relocations=0
+[   5348.79s] SFC 59 COMPLETED
+[   5354.58s] SFC 238 COMPLETED
+[   5359.94s] SFC 409 ACCEPTED | existing CNF relocations=0
+[   5364.13s] SFC 410 ACCEPTED | existing CNF relocations=0
+[   5373.71s] SFC 411 ACCEPTED | existing CNF relocations=0
+[   5374.05s] SFC 412 ACCEPTED | existing CNF relocations=0
+[   5381.26s] SFC 413 ACCEPTED | existing CNF relocations=0
+[   5384.67s] SFC 414 ACCEPTED | existing CNF relocations=2
+[   5392.00s] SFC 243 COMPLETED
+[   5406.42s] SFC 415 ACCEPTED | existing CNF relocations=3
+[   5412.76s] SFC 280 COMPLETED
+[   5413.57s] SFC 416 ACCEPTED | existing CNF relocations=0
+[   5414.19s] SFC 417 ACCEPTED | existing CNF relocations=0
+[   5420.85s] SFC 418 ACCEPTED | existing CNF relocations=0
+[   5428.00s] SFC 275 COMPLETED
+[   5436.63s] SFC 419 ACCEPTED | existing CNF relocations=0
+[   5449.84s] SFC 333 COMPLETED
+[   5456.84s] SFC 420 ACCEPTED | existing CNF relocations=0
+[   5461.31s] SFC 421 ACCEPTED | existing CNF relocations=0
+[   5465.74s] SFC 422 ACCEPTED | existing CNF relocations=0
+[   5467.05s] SFC 276 COMPLETED
+[   5467.06s] SFC 157 COMPLETED
+[   5467.27s] SFC 423 ACCEPTED | existing CNF relocations=0
+[   5472.89s] SFC 424 ACCEPTED | existing CNF relocations=0
+[   5481.66s] SFC 302 COMPLETED
+[   5483.91s] SFC 425 ACCEPTED | existing CNF relocations=0
+[   5484.29s] SFC 426 ACCEPTED | existing CNF relocations=0
+[   5494.53s] SFC 427 ACCEPTED | existing CNF relocations=0
+[   5498.16s] SFC 428 ACCEPTED | existing CNF relocations=0
+[   5498.88s] SFC 429 ACCEPTED | existing CNF relocations=0
+[   5500.81s] SFC 430 ACCEPTED | existing CNF relocations=0
+[   5502.06s] SFC 117 COMPLETED
+[   5511.38s] SFC 431 ACCEPTED | existing CNF relocations=4
+[   5517.04s] SFC 76 COMPLETED
+[   5522.79s] SFC 299 COMPLETED
+[   5534.88s] SFC 432 ACCEPTED | existing CNF relocations=0
+[   5539.98s] SFC 433 ACCEPTED | existing CNF relocations=0
+[   5547.53s] SFC 434 ACCEPTED | existing CNF relocations=0
+[   5547.86s] SFC 401 COMPLETED
+[   5548.39s] SFC 57 COMPLETED
+[   5559.33s] SFC 415 COMPLETED
+[   5566.93s] SFC 435 ACCEPTED | existing CNF relocations=1
+[   5567.57s] SFC 436 ACCEPTED | existing CNF relocations=0
+[   5567.91s] SFC 174 COMPLETED
+[   5571.63s] SFC 323 COMPLETED
+[   5575.66s] SFC 437 ACCEPTED | existing CNF relocations=0
+[   5577.15s] SFC 438 ACCEPTED | existing CNF relocations=0
+[   5578.39s] SFC 439 ACCEPTED | existing CNF relocations=0
+[   5584.01s] SFC 83 COMPLETED
+[   5585.11s] SFC 440 ACCEPTED | existing CNF relocations=0
+[   5585.13s] SFC 441 ACCEPTED | existing CNF relocations=1
+[   5589.91s] SFC 442 ACCEPTED | existing CNF relocations=0
+[   5593.42s] SFC 443 ACCEPTED | existing CNF relocations=0
+[   5606.89s] SFC 142 COMPLETED
+[   5623.52s] SFC 140 COMPLETED
+[   5630.81s] SFC 444 ACCEPTED | existing CNF relocations=2
+[   5632.06s] SFC 445 ACCEPTED | existing CNF relocations=0
+[   5633.21s] SFC 446 ACCEPTED | existing CNF relocations=0
+[   5635.05s] SFC 447 ACCEPTED | existing CNF relocations=0
+[   5645.34s] SFC 448 ACCEPTED | existing CNF relocations=0
+[   5645.80s] SFC 449 ACCEPTED | existing CNF relocations=0
+[   5647.37s] SFC 450 ACCEPTED | existing CNF relocations=0
+[   5651.87s] SFC 451 ACCEPTED | existing CNF relocations=0
+[   5671.77s] SFC 452 ACCEPTED | existing CNF relocations=0
+[   5674.94s] SFC 453 ACCEPTED | existing CNF relocations=0
+[   5679.50s] SFC 454 ACCEPTED | existing CNF relocations=0
+[   5681.70s] SFC 433 COMPLETED
+[   5682.13s] SFC 455 ACCEPTED | existing CNF relocations=0
+[   5683.00s] SFC 456 ACCEPTED | existing CNF relocations=2
+[   5684.67s] SFC 457 ACCEPTED | existing CNF relocations=0
+[   5704.15s] SFC 458 ACCEPTED | existing CNF relocations=0
+[   5704.54s] SFC 306 COMPLETED
+[   5704.80s] SFC 383 COMPLETED
+[   5711.07s] SFC 459 ACCEPTED | existing CNF relocations=0
+[   5716.62s] SFC 460 ACCEPTED | existing CNF relocations=0
+[   5716.85s] SFC 366 COMPLETED
+[   5719.67s] SFC 352 COMPLETED
+[   5723.33s] SFC 259 COMPLETED
+[   5733.60s] SFC 461 ACCEPTED | existing CNF relocations=3
+[   5741.77s] SFC 216 COMPLETED
+[   5747.23s] SFC 368 COMPLETED
+[   5755.86s] SFC 462 ACCEPTED | existing CNF relocations=1
+[   5756.72s] SFC 463 ACCEPTED | existing CNF relocations=0
+[   5760.53s] SFC 464 ACCEPTED | existing CNF relocations=0
+[   5760.81s] SFC 465 ACCEPTED | existing CNF relocations=0
+[   5763.72s] SFC 466 ACCEPTED | existing CNF relocations=0
+[   5766.33s] SFC 466 COMPLETED
+[   5767.25s] SFC 467 ACCEPTED | existing CNF relocations=0
+[   5768.75s] SFC 468 ACCEPTED | existing CNF relocations=2
+[   5777.51s] SFC 469 ACCEPTED | existing CNF relocations=0
+[   5793.03s] SFC 292 COMPLETED
+[   5800.82s] SFC 470 ACCEPTED | existing CNF relocations=0
+[   5806.48s] SFC 471 ACCEPTED | existing CNF relocations=0
+[   5810.83s] SFC 472 ACCEPTED | existing CNF relocations=0
+[   5813.66s] SFC 473 ACCEPTED | existing CNF relocations=0
+[   5817.38s] SFC 474 ACCEPTED | existing CNF relocations=0
+[   5818.44s] SFC 309 COMPLETED
+[   5822.71s] SFC 475 ACCEPTED | existing CNF relocations=2
+[   5826.90s] SFC 476 ACCEPTED | existing CNF relocations=0
+[   5836.99s] SFC 417 COMPLETED
+[   5839.46s] SFC 53 COMPLETED
+[   5849.73s] SFC 477 ACCEPTED | existing CNF relocations=0
+[   5859.40s] SFC 252 COMPLETED
+[   5860.59s] SFC 478 ACCEPTED | existing CNF relocations=0
+[   5860.76s] SFC 479 ACCEPTED | existing CNF relocations=0
+[   5860.79s] SFC 480 ACCEPTED | existing CNF relocations=0
+[   5861.81s] SFC 481 ACCEPTED | existing CNF relocations=0
+[   5863.24s] SFC 482 ACCEPTED | existing CNF relocations=0
+[   5863.47s] SFC 483 ACCEPTED | existing CNF relocations=0
+[   5866.31s] SFC 326 COMPLETED
+[   5873.41s] SFC 484 ACCEPTED | existing CNF relocations=0
+[   5874.68s] SFC 485 ACCEPTED | existing CNF relocations=0
+[   5875.71s] SFC 476 COMPLETED
+[   5879.06s] SFC 486 ACCEPTED | existing CNF relocations=0
+[   5885.25s] SFC 441 COMPLETED
+[   5888.28s] SFC 487 ACCEPTED | existing CNF relocations=3
+[   5893.18s] SFC 488 ACCEPTED | existing CNF relocations=0
+[   5907.81s] SFC 460 COMPLETED
+[   5910.67s] SFC 219 COMPLETED
+[   5914.45s] SFC 489 ACCEPTED | existing CNF relocations=0
+[   5914.54s] SFC 241 COMPLETED
+[   5918.79s] SFC 490 ACCEPTED | existing CNF relocations=1
+[   5920.59s] SFC 455 COMPLETED
+[   5921.28s] SFC 491 ACCEPTED | existing CNF relocations=0
+[   5925.26s] SFC 492 ACCEPTED | existing CNF relocations=1
+[   5930.02s] SFC 363 COMPLETED
+[   5935.39s] SFC 404 COMPLETED
+[   5938.23s] SFC 493 ACCEPTED | existing CNF relocations=0
+[   5938.58s] SFC 494 ACCEPTED | existing CNF relocations=0
+[   5941.87s] SFC 256 COMPLETED
+[   5942.83s] SFC 495 ACCEPTED | existing CNF relocations=0
+[   5960.83s] SFC 496 ACCEPTED | existing CNF relocations=0
+[   5965.10s] SFC 497 ACCEPTED | existing CNF relocations=0
+[   5967.29s] SFC 303 COMPLETED
+[   5980.70s] SFC 400 COMPLETED
+[   5982.61s] SFC 498 ACCEPTED | existing CNF relocations=0
+[   5983.56s] SFC 499 ACCEPTED | existing CNF relocations=0
+[   5985.02s] SFC 423 COMPLETED
+[   5985.07s] SFC 500 ACCEPTED | existing CNF relocations=0
+[   5986.55s] SFC 501 ACCEPTED | existing CNF relocations=0
+[   5992.55s] SFC 502 ACCEPTED | existing CNF relocations=0
+[   6001.04s] SFC 503 ACCEPTED | existing CNF relocations=1
+[   6007.31s] SFC 504 ACCEPTED | existing CNF relocations=0
+[   6012.66s] SFC 171 COMPLETED
+[   6026.02s] SFC 267 COMPLETED
+[   6028.42s] SFC 327 COMPLETED
+[   6034.35s] SFC 505 ACCEPTED | existing CNF relocations=0
+[   6037.71s] SFC 506 ACCEPTED | existing CNF relocations=0
+[   6040.66s] SFC 507 ACCEPTED | existing CNF relocations=0
+[   6045.19s] SFC 508 ACCEPTED | existing CNF relocations=0
+[   6045.80s] SFC 237 COMPLETED
+[   6048.84s] SFC 509 ACCEPTED | existing CNF relocations=0
+[   6052.63s] SFC 510 ACCEPTED | existing CNF relocations=0
+[   6056.98s] SFC 511 ACCEPTED | existing CNF relocations=0
+[   6057.26s] SFC 463 COMPLETED
+[   6067.51s] SFC 512 ACCEPTED | existing CNF relocations=0
+[   6074.26s] SFC 513 ACCEPTED | existing CNF relocations=0
+[   6075.68s] SFC 514 ACCEPTED | existing CNF relocations=0
+[   6078.47s] SFC 160 COMPLETED
+[   6082.07s] SFC 515 ACCEPTED | existing CNF relocations=0
+[   6083.24s] SFC 287 COMPLETED
+[   6101.79s] SFC 516 ACCEPTED | existing CNF relocations=0
+[   6112.59s] SFC 517 ACCEPTED | existing CNF relocations=0
+[   6126.13s] SFC 91 COMPLETED
+[   6126.50s] SFC 518 ACCEPTED | existing CNF relocations=0
+[   6139.22s] SFC 519 ACCEPTED | existing CNF relocations=0
+[   6142.82s] SFC 520 ACCEPTED | existing CNF relocations=0
+[   6149.35s] SFC 521 ACCEPTED | existing CNF relocations=0
+[   6167.36s] SFC 14 COMPLETED
+[   6168.55s] SFC 507 COMPLETED
+[   6176.24s] SFC 490 COMPLETED
+[   6185.09s] SFC 522 ACCEPTED | existing CNF relocations=1
+[   6187.38s] SFC 523 ACCEPTED | existing CNF relocations=0
+[   6195.09s] SFC 357 COMPLETED
+[   6195.58s] SFC 382 COMPLETED
+[   6206.94s] SFC 33 COMPLETED
+[   6212.84s] SFC 524 ACCEPTED | existing CNF relocations=0
+[   6217.36s] SFC 525 ACCEPTED | existing CNF relocations=0
+[   6223.55s] SFC 375 COMPLETED
+[   6224.57s] SFC 148 COMPLETED
+[   6227.22s] SFC 526 ACCEPTED | existing CNF relocations=2
+[   6234.73s] SFC 527 ACCEPTED | existing CNF relocations=0
+[   6247.72s] SFC 325 COMPLETED
+[   6256.37s] SFC 399 COMPLETED
+[   6258.23s] SFC 528 ACCEPTED | existing CNF relocations=0
+[   6271.18s] SFC 529 ACCEPTED | existing CNF relocations=0
+[   6280.04s] SFC 530 ACCEPTED | existing CNF relocations=0
+[   6283.79s] SFC 356 COMPLETED
+[   6290.04s] SFC 531 ACCEPTED | existing CNF relocations=0
+[   6290.80s] SFC 532 ACCEPTED | existing CNF relocations=0
+[   6304.41s] SFC 388 COMPLETED
+[   6309.91s] SFC 533 ACCEPTED | existing CNF relocations=0
+[   6313.20s] SFC 534 ACCEPTED | existing CNF relocations=0
+[   6320.72s] SFC 535 ACCEPTED | existing CNF relocations=1
+[   6328.75s] SFC 532 COMPLETED
+[   6335.05s] SFC 536 ACCEPTED | existing CNF relocations=0
+[   6337.18s] SFC 109 COMPLETED
+[   6342.12s] SFC 537 ACCEPTED | existing CNF relocations=2
+[   6348.86s] SFC 495 COMPLETED
+[   6355.12s] SFC 538 ACCEPTED | existing CNF relocations=0
+[   6356.69s] SFC 539 ACCEPTED | existing CNF relocations=0
+[   6357.92s] SFC 445 COMPLETED
+[   6358.26s] SFC 540 ACCEPTED | existing CNF relocations=1
+[   6364.80s] SFC 285 COMPLETED
+[   6367.52s] SFC 541 ACCEPTED | existing CNF relocations=0
+[   6371.97s] SFC 542 ACCEPTED | existing CNF relocations=1
+[   6386.94s] SFC 353 COMPLETED
+[   6387.02s] SFC 231 COMPLETED
+[   6387.76s] SFC 295 COMPLETED
+[   6393.58s] SFC 543 ACCEPTED | existing CNF relocations=0
+[   6400.72s] SFC 544 ACCEPTED | existing CNF relocations=0
+[   6401.50s] SFC 545 ACCEPTED | existing CNF relocations=0
+[   6403.01s] SFC 62 COMPLETED
+[   6403.77s] SFC 546 ACCEPTED | existing CNF relocations=0
+[   6409.38s] SFC 547 ACCEPTED | existing CNF relocations=0
+[   6415.45s] SFC 548 ACCEPTED | existing CNF relocations=0
+[   6420.93s] SFC 549 ACCEPTED | existing CNF relocations=0
+[   6424.81s] SFC 550 ACCEPTED | existing CNF relocations=0
+[   6437.13s] SFC 481 COMPLETED
+[   6440.08s] SFC 551 ACCEPTED | existing CNF relocations=0
+[   6450.72s] SFC 281 COMPLETED
+[   6452.40s] SFC 228 COMPLETED
+[   6459.53s] SFC 195 COMPLETED
+[   6468.21s] SFC 552 ACCEPTED | existing CNF relocations=0
+[   6469.58s] SFC 509 COMPLETED
+[   6480.50s] SFC 168 COMPLETED
+[   6485.92s] SFC 342 COMPLETED
+[   6491.06s] SFC 47 COMPLETED
+[   6494.42s] SFC 553 ACCEPTED | existing CNF relocations=4
+[   6497.72s] SFC 18 COMPLETED
+[   6500.07s] SFC 554 ACCEPTED | existing CNF relocations=4
+[   6501.37s] SFC 555 ACCEPTED | existing CNF relocations=0
+[   6510.58s] SFC 556 ACCEPTED | existing CNF relocations=0
+[   6511.84s] SFC 557 ACCEPTED | existing CNF relocations=0
+[   6512.13s] SFC 558 ACCEPTED | existing CNF relocations=0
+[   6518.87s] SFC 335 COMPLETED
+[   6521.45s] SFC 496 COMPLETED
+[   6524.20s] SFC 559 ACCEPTED | existing CNF relocations=2
+[   6525.17s] SFC 560 ACCEPTED | existing CNF relocations=0
+[   6542.97s] SFC 561 ACCEPTED | existing CNF relocations=2
+[   6545.83s] SFC 263 COMPLETED
+[   6552.89s] SFC 562 ACCEPTED | existing CNF relocations=0
+[   6564.16s] SFC 194 COMPLETED
+[   6568.52s] SFC 563 ACCEPTED | existing CNF relocations=0
+[   6568.60s] SFC 564 ACCEPTED | existing CNF relocations=2
+[   6574.70s] SFC 565 ACCEPTED | existing CNF relocations=0
+[   6577.81s] SFC 566 ACCEPTED | existing CNF relocations=0
+[   6577.82s] SFC 233 COMPLETED
+[   6581.74s] SFC 567 ACCEPTED | existing CNF relocations=2
+[   6583.09s] SFC 568 ACCEPTED | existing CNF relocations=3
+[   6591.69s] SFC 431 COMPLETED
+[   6594.71s] SFC 569 ACCEPTED | existing CNF relocations=0
+[   6601.19s] SFC 152 COMPLETED
+[   6604.09s] SFC 254 COMPLETED
+[   6607.75s] SFC 570 ACCEPTED | existing CNF relocations=0
+[   6608.94s] SFC 571 ACCEPTED | existing CNF relocations=0
+[   6610.11s] SFC 513 COMPLETED
+[   6612.70s] SFC 572 ACCEPTED | existing CNF relocations=2
+[   6621.85s] SFC 573 ACCEPTED | existing CNF relocations=2
+[   6625.66s] SFC 574 ACCEPTED | existing CNF relocations=0
+[   6630.05s] SFC 575 ACCEPTED | existing CNF relocations=1
+[   6632.90s] SFC 576 ACCEPTED | existing CNF relocations=0
+[   6635.85s] SFC 577 ACCEPTED | existing CNF relocations=0
+[   6637.84s] SFC 362 COMPLETED
+[   6642.47s] SFC 319 COMPLETED
+[   6644.27s] SFC 367 COMPLETED
+[   6659.01s] SFC 578 ACCEPTED | existing CNF relocations=2
+[   6664.89s] SFC 528 COMPLETED
+[   6685.76s] SFC 579 ACCEPTED | existing CNF relocations=0
+[   6695.55s] SFC 580 ACCEPTED | existing CNF relocations=2
+[   6700.86s] SFC 581 ACCEPTED | existing CNF relocations=0
+[   6703.00s] SFC 582 ACCEPTED | existing CNF relocations=0
+[   6704.36s] SFC 530 COMPLETED
+[   6705.92s] SFC 336 COMPLETED
+[   6708.72s] SFC 583 ACCEPTED | existing CNF relocations=0
+[   6708.73s] SFC 584 ACCEPTED | existing CNF relocations=1
+[   6727.73s] SFC 585 ACCEPTED | existing CNF relocations=2
+[   6728.60s] SFC 278 COMPLETED
+[   6732.57s] SFC 586 ACCEPTED | existing CNF relocations=0
+[   6732.92s] SFC 587 ACCEPTED | existing CNF relocations=0
+[   6735.51s] SFC 452 COMPLETED
+[   6744.00s] SFC 588 ACCEPTED | existing CNF relocations=1
+[   6753.77s] SFC 485 COMPLETED
+[   6757.67s] SFC 589 ACCEPTED | existing CNF relocations=0
+[   6780.41s] SFC 418 COMPLETED
+[   6783.86s] SFC 590 ACCEPTED | existing CNF relocations=0
+[   6783.90s] SFC 591 ACCEPTED | existing CNF relocations=0
+[   6787.98s] SFC 106 COMPLETED
+[   6791.30s] SFC 504 COMPLETED
+[   6791.88s] SFC 592 ACCEPTED | existing CNF relocations=3
+[   6792.33s] SFC 235 COMPLETED
+[   6797.26s] SFC 593 ACCEPTED | existing CNF relocations=5
+[   6797.60s] SFC 419 COMPLETED
+[   6800.18s] SFC 472 COMPLETED
+[   6802.33s] SFC 526 COMPLETED
+[   6802.65s] SFC 593 COMPLETED
+[   6816.71s] SFC 594 ACCEPTED | existing CNF relocations=7
+[   6823.30s] SFC 595 ACCEPTED | existing CNF relocations=0
+[   6827.91s] SFC 596 ACCEPTED | existing CNF relocations=3
+[   6832.81s] SFC 597 ACCEPTED | existing CNF relocations=0
+[   6833.17s] SFC 598 ACCEPTED | existing CNF relocations=0
+[   6836.83s] SFC 599 ACCEPTED | existing CNF relocations=0
+[   6842.82s] SFC 553 COMPLETED
+[   6846.52s] SFC 600 ACCEPTED | existing CNF relocations=0
+[   6852.76s] SFC 601 ACCEPTED | existing CNF relocations=0
+[   6857.34s] SFC 555 COMPLETED
+[   6860.89s] SFC 589 COMPLETED
+[   6863.51s] SFC 602 ACCEPTED | existing CNF relocations=0
+[   6864.82s] SFC 603 ACCEPTED | existing CNF relocations=0
+[   6868.90s] SFC 604 ACCEPTED | existing CNF relocations=0
+[   6872.20s] SFC 605 ACCEPTED | existing CNF relocations=0
+[   6873.30s] SFC 606 ACCEPTED | existing CNF relocations=0
+[   6878.82s] SFC 607 ACCEPTED | existing CNF relocations=0
+[   6884.26s] SFC 608 ACCEPTED | existing CNF relocations=0
+[   6885.44s] SFC 609 ACCEPTED | existing CNF relocations=0
+[   6892.58s] SFC 610 ACCEPTED | existing CNF relocations=2
+[   6899.28s] SFC 484 COMPLETED
+[   6909.63s] SFC 611 ACCEPTED | existing CNF relocations=0
+[   6912.10s] SFC 493 COMPLETED
+[   6912.39s] SFC 321 COMPLETED
+[   6915.25s] SFC 612 ACCEPTED | existing CNF relocations=0
+[   6920.81s] SFC 565 COMPLETED
+[   6923.12s] SFC 554 COMPLETED
+[   6926.26s] SFC 613 ACCEPTED | existing CNF relocations=0
+[   6931.47s] SFC 430 COMPLETED
+[   6937.46s] SFC 598 COMPLETED
+[   6950.34s] SFC 412 COMPLETED
+[   6951.45s] SFC 602 COMPLETED
+[   6953.55s] SFC 614 ACCEPTED | existing CNF relocations=3
+[   6954.92s] SFC 531 COMPLETED
+[   6958.36s] SFC 615 ACCEPTED | existing CNF relocations=2
+[   6959.67s] SFC 616 ACCEPTED | existing CNF relocations=0
+[   6968.74s] SFC 617 ACCEPTED | existing CNF relocations=0
+[   6970.13s] SFC 618 ACCEPTED | existing CNF relocations=0
+[   6970.91s] SFC 619 ACCEPTED | existing CNF relocations=0
+[   6979.45s] SFC 620 ACCEPTED | existing CNF relocations=3
+[   6980.90s] SFC 621 ACCEPTED | existing CNF relocations=0
+[   6989.23s] SFC 622 ACCEPTED | existing CNF relocations=0
+[   6992.66s] SFC 218 COMPLETED
+[   6994.65s] SFC 623 ACCEPTED | existing CNF relocations=3
+[   7000.53s] SFC 624 ACCEPTED | existing CNF relocations=0
+[   7002.39s] SFC 612 COMPLETED
+[   7007.42s] SFC 204 COMPLETED
+[   7008.42s] SFC 514 COMPLETED
+[   7013.78s] SFC 625 ACCEPTED | existing CNF relocations=0
+[   7017.33s] SFC 626 ACCEPTED | existing CNF relocations=0
+[   7023.64s] SFC 627 ACCEPTED | existing CNF relocations=0
+[   7025.95s] SFC 416 COMPLETED
+[   7029.92s] SFC 628 ACCEPTED | existing CNF relocations=0
+[   7030.54s] SFC 79 COMPLETED
+[   7037.65s] SFC 629 ACCEPTED | existing CNF relocations=0
+[   7047.18s] SFC 203 COMPLETED
+[   7047.66s] SFC 630 ACCEPTED | existing CNF relocations=0
+[   7054.91s] SFC 631 ACCEPTED | existing CNF relocations=0
+[   7055.19s] SFC 632 ACCEPTED | existing CNF relocations=0
+[   7066.93s] SFC 571 COMPLETED
+[   7071.09s] SFC 633 ACCEPTED | existing CNF relocations=0
+[   7071.10s] SFC 634 ACCEPTED | existing CNF relocations=0
+[   7076.11s] SFC 635 ACCEPTED | existing CNF relocations=3
+[   7085.38s] SFC 636 ACCEPTED | existing CNF relocations=0
+[   7094.81s] SFC 387 COMPLETED
+[   7096.20s] SFC 378 COMPLETED
+[   7096.50s] SFC 343 COMPLETED
+[   7096.70s] SFC 529 COMPLETED
+[   7097.52s] SFC 637 ACCEPTED | existing CNF relocations=0
+[   7098.18s] SFC 592 COMPLETED
+[   7106.13s] SFC 638 ACCEPTED | existing CNF relocations=0
+[   7109.67s] SFC 639 ACCEPTED | existing CNF relocations=0
+[   7109.81s] SFC 25 COMPLETED
+[   7113.67s] SFC 640 ACCEPTED | existing CNF relocations=7
+[   7118.61s] SFC 641 ACCEPTED | existing CNF relocations=0
+[   7121.88s] SFC 642 ACCEPTED | existing CNF relocations=4
+[   7124.01s] SFC 643 ACCEPTED | existing CNF relocations=1
+[   7129.20s] SFC 386 COMPLETED
+[   7150.37s] SFC 644 ACCEPTED | existing CNF relocations=3
+[   7160.92s] SFC 645 ACCEPTED | existing CNF relocations=0
+[   7171.36s] SFC 646 ACCEPTED | existing CNF relocations=0
+[   7172.15s] SFC 647 ACCEPTED | existing CNF relocations=0
+[   7176.11s] SFC 588 COMPLETED
+[   7187.76s] SFC 501 COMPLETED
+[   7188.03s] SFC 214 COMPLETED
+[   7189.90s] SFC 648 ACCEPTED | existing CNF relocations=3
+[   7198.50s] SFC 649 ACCEPTED | existing CNF relocations=0
+[   7202.60s] SFC 344 COMPLETED
+[   7206.91s] SFC 293 COMPLETED
+[   7212.22s] SFC 414 COMPLETED
+[   7224.27s] SFC 304 COMPLETED
+[   7230.38s] SFC 451 COMPLETED
+[   7238.16s] SFC 456 COMPLETED
+[   7239.04s] SFC 577 COMPLETED
+[   7245.38s] SFC 149 COMPLETED
+[   7266.79s] SFC 479 COMPLETED
+[   7308.43s] SFC 557 COMPLETED
+[   7314.37s] SFC 179 COMPLETED
+[   7324.30s] SFC 322 COMPLETED
+[   7360.77s] SFC 549 COMPLETED
+[   7366.02s] SFC 600 COMPLETED
+[   7372.59s] SFC 320 COMPLETED
+[   7372.79s] SFC 642 COMPLETED
+[   7384.90s] SFC 182 COMPLETED
+[   7385.90s] SFC 58 COMPLETED
+[   7389.25s] SFC 139 COMPLETED
+[   7390.30s] SFC 26 COMPLETED
+[   7399.19s] SFC 100 COMPLETED
+[   7404.03s] SFC 578 COMPLETED
+[   7404.15s] SFC 406 COMPLETED
+[   7408.79s] SFC 45 COMPLETED
+[   7421.94s] SFC 448 COMPLETED
+[   7478.18s] SFC 562 COMPLETED
+[   7496.77s] SFC 360 COMPLETED
+[   7501.27s] SFC 566 COMPLETED
+[   7518.10s] SFC 502 COMPLETED
+[   7528.68s] SFC 524 COMPLETED
+[   7535.89s] SFC 547 COMPLETED
+[   7567.22s] SFC 265 COMPLETED
+[   7583.44s] SFC 482 COMPLETED
+[   7589.73s] SFC 634 COMPLETED
+[   7594.05s] SFC 330 COMPLETED
+[   7596.09s] SFC 288 COMPLETED
+[   7610.69s] SFC 359 COMPLETED
+[   7618.49s] SFC 261 COMPLETED
+[   7620.58s] SFC 579 COMPLETED
+[   7624.34s] SFC 488 COMPLETED
+[   7631.83s] SFC 629 COMPLETED
+[   7684.34s] SFC 128 COMPLETED
+[   7705.14s] SFC 164 COMPLETED
+[   7710.08s] SFC 226 COMPLETED
+[   7716.83s] SFC 190 COMPLETED
+[   7719.01s] SFC 523 COMPLETED
+[   7723.53s] SFC 563 COMPLETED
+[   7726.34s] SFC 649 COMPLETED
+[   7742.74s] SFC 623 COMPLETED
+[   7749.98s] SFC 595 COMPLETED
+[   7764.89s] SFC 486 COMPLETED
+[   7767.19s] SFC 70 COMPLETED
+[   7785.07s] SFC 437 COMPLETED
+[   7789.48s] SFC 408 COMPLETED
+[   7819.39s] SFC 316 COMPLETED
+[   7833.78s] SFC 587 COMPLETED
+[   7856.20s] SFC 454 COMPLETED
+[   7877.82s] SFC 639 COMPLETED
+[   7899.00s] SFC 458 COMPLETED
+[   7918.83s] SFC 296 COMPLETED
+[   7921.65s] SFC 487 COMPLETED
+[   7932.64s] SFC 497 COMPLETED
+[   7935.24s] SFC 350 COMPLETED
+[   7937.95s] SFC 611 COMPLETED
+[   7949.89s] SFC 307 COMPLETED
+[   7954.05s] SFC 374 COMPLETED
+[   7958.35s] SFC 167 COMPLETED
+[   7979.24s] SFC 186 COMPLETED
+[   7985.49s] SFC 137 COMPLETED
+[   8009.57s] SFC 23 COMPLETED
+[   8024.96s] SFC 498 COMPLETED
+[   8033.44s] SFC 389 COMPLETED
+[   8044.78s] SFC 422 COMPLETED
+[   8055.49s] SFC 464 COMPLETED
+[   8068.93s] SFC 236 COMPLETED
+[   8079.91s] SFC 510 COMPLETED
+[   8082.03s] SFC 584 COMPLETED
+[   8111.12s] SFC 370 COMPLETED
+[   8113.79s] SFC 158 COMPLETED
+[   8131.96s] SFC 434 COMPLETED
+[   8139.01s] SFC 224 COMPLETED
+[   8159.93s] SFC 616 COMPLETED
+[   8161.26s] SFC 394 COMPLETED
+[   8164.16s] SFC 384 COMPLETED
+[   8171.30s] SFC 393 COMPLETED
+[   8179.15s] SFC 443 COMPLETED
+[   8209.97s] SFC 440 COMPLETED
+[   8227.87s] SFC 574 COMPLETED
+[   8246.56s] SFC 77 COMPLETED
+[   8251.04s] SFC 540 COMPLETED
+[   8266.87s] SFC 552 COMPLETED
+[   8271.73s] SFC 545 COMPLETED
+[   8300.36s] SFC 500 COMPLETED
+[   8304.84s] SFC 503 COMPLETED
+[   8329.59s] SFC 82 COMPLETED
+[   8353.97s] SFC 570 COMPLETED
+[   8354.97s] SFC 172 COMPLETED
+[   8387.81s] SFC 268 COMPLETED
+[   8401.52s] SFC 328 COMPLETED
+[   8419.59s] SFC 251 COMPLETED
+[   8429.08s] SFC 381 COMPLETED
+[   8441.48s] SFC 173 COMPLETED
+[   8446.56s] SFC 621 COMPLETED
+[   8454.90s] SFC 627 COMPLETED
+[   8482.66s] SFC 534 COMPLETED
+[   8500.69s] SFC 439 COMPLETED
+[   8520.34s] SFC 590 COMPLETED
+[   8527.64s] SFC 515 COMPLETED
+[   8530.95s] SFC 329 COMPLETED
+[   8590.34s] SFC 609 COMPLETED
+[   8592.33s] SFC 546 COMPLETED
+[   8630.50s] SFC 442 COMPLETED
+[   8637.89s] SFC 551 COMPLETED
+[   8700.86s] SFC 640 COMPLETED
+[   8704.58s] SFC 355 COMPLETED
+[   8721.13s] SFC 421 COMPLETED
+[   8733.73s] SFC 407 COMPLETED
+[   8740.40s] SFC 24 COMPLETED
+[   8748.08s] SFC 594 COMPLETED
+[   8785.27s] SFC 624 COMPLETED
+[   8809.56s] SFC 113 COMPLETED
+[   8822.54s] SFC 475 COMPLETED
+[   8871.64s] SFC 217 COMPLETED
+[   8885.42s] SFC 483 COMPLETED
+[   8904.85s] SFC 572 COMPLETED
+[   8936.19s] SFC 88 COMPLETED
+[   8936.29s] SFC 405 COMPLETED
+[   8938.79s] SFC 364 COMPLETED
+[   8946.09s] SFC 580 COMPLETED
+[   8985.15s] SFC 576 COMPLETED
+[   8996.10s] SFC 410 COMPLETED
+[   9047.35s] SFC 646 COMPLETED
+[   9080.19s] SFC 614 COMPLETED
+[   9090.31s] SFC 141 COMPLETED
+[   9090.77s] SFC 420 COMPLETED
+[   9103.81s] SFC 522 COMPLETED
+[   9121.62s] SFC 351 COMPLETED
+[   9196.79s] SFC 50 COMPLETED
+[   9205.27s] SFC 349 COMPLETED
+[   9214.37s] SFC 582 COMPLETED
+[   9256.22s] SFC 289 COMPLETED
+[   9260.39s] SFC 492 COMPLETED
+[   9274.60s] SFC 444 COMPLETED
+[   9293.39s] SFC 615 COMPLETED
+[   9296.91s] SFC 465 COMPLETED
+[   9320.06s] SFC 499 COMPLETED
+[   9320.73s] SFC 397 COMPLETED
+[   9335.43s] SFC 583 COMPLETED
+[   9345.51s] SFC 471 COMPLETED
+[   9353.06s] SFC 234 COMPLETED
+[   9365.42s] SFC 340 COMPLETED
+[   9367.33s] SFC 447 COMPLETED
+[   9425.69s] SFC 605 COMPLETED
+[   9453.59s] SFC 558 COMPLETED
+[   9476.98s] SFC 560 COMPLETED
+[   9514.68s] SFC 462 COMPLETED
+[   9517.31s] SFC 338 COMPLETED
+[   9559.30s] SFC 542 COMPLETED
+[   9559.78s] SFC 398 COMPLETED
+[   9563.50s] SFC 390 COMPLETED
+[   9630.31s] SFC 618 COMPLETED
+[   9645.43s] SFC 489 COMPLETED
+[   9660.32s] SFC 506 COMPLETED
+[   9709.74s] SFC 341 COMPLETED
+[   9714.38s] SFC 426 COMPLETED
+[   9741.13s] SFC 608 COMPLETED
+[   9753.93s] SFC 511 COMPLETED
+[   9764.92s] SFC 402 COMPLETED
+[   9788.47s] SFC 313 COMPLETED
+[   9792.71s] SFC 103 COMPLETED
+[   9816.21s] SFC 586 COMPLETED
+[   9820.65s] SFC 613 COMPLETED
+[   9843.67s] SFC 413 COMPLETED
+[   9880.16s] SFC 294 COMPLETED
+[   9907.57s] SFC 457 COMPLETED
+[   9922.82s] SFC 87 COMPLETED
+[   9984.07s] SFC 459 COMPLETED
+[   9992.01s] SFC 648 COMPLETED
+[  10007.97s] SFC 424 COMPLETED
+[  10030.63s] SFC 477 COMPLETED
+[  10053.59s] SFC 467 COMPLETED
+[  10066.90s] SFC 539 COMPLETED
+[  10143.61s] SFC 548 COMPLETED
+[  10219.80s] SFC 348 COMPLETED
+[  10222.23s] SFC 573 COMPLETED
+[  10247.57s] SFC 99 COMPLETED
+[  10262.03s] SFC 517 COMPLETED
+[  10274.38s] SFC 535 COMPLETED
+[  10303.78s] SFC 159 COMPLETED
+[  10323.88s] SFC 180 COMPLETED
+[  10336.17s] SFC 631 COMPLETED
+[  10342.37s] SFC 647 COMPLETED
+[  10353.62s] SFC 126 COMPLETED
+[  10412.26s] SFC 310 COMPLETED
+[  10465.65s] SFC 635 COMPLETED
+[  10478.48s] SFC 569 COMPLETED
+[  10484.25s] SFC 376 COMPLETED
+[  10500.27s] SFC 151 COMPLETED
+[  10528.75s] SFC 315 COMPLETED
+[  10533.02s] SFC 409 COMPLETED
+[  10555.54s] SFC 244 COMPLETED
+[  10622.92s] SFC 432 COMPLETED
+[  10622.95s] SFC 527 COMPLETED
+[  10661.74s] SFC 505 COMPLETED
+[  10706.18s] SFC 392 COMPLETED
+[  10730.18s] SFC 334 COMPLETED
+[  10730.58s] SFC 508 COMPLETED
+[  10736.40s] SFC 603 COMPLETED
+[  10740.08s] SFC 39 COMPLETED
+[  10791.90s] SFC 369 COMPLETED
+[  10796.65s] SFC 305 COMPLETED
+[  10800.75s] SFC 541 COMPLETED
+[  10802.57s] SFC 385 COMPLETED
+[  10805.61s] SFC 346 COMPLETED
+[  10894.63s] SFC 516 COMPLETED
+[  10924.40s] SFC 533 COMPLETED
+[  10963.84s] SFC 395 COMPLETED
+[  11000.92s] SFC 122 COMPLETED
+[  11032.02s] SFC 559 COMPLETED
+[  11114.10s] SFC 245 COMPLETED
+[  11115.06s] SFC 131 COMPLETED
+[  11125.80s] SFC 373 COMPLETED
+[  11126.05s] SFC 606 COMPLETED
+[  11141.05s] SFC 575 COMPLETED
+[  11142.82s] SFC 626 COMPLETED
+[  11147.05s] SFC 380 COMPLETED
+[  11196.93s] SFC 403 COMPLETED
+[  11203.40s] SFC 436 COMPLETED
+[  11245.75s] SFC 461 COMPLETED
+[  11264.82s] SFC 480 COMPLETED
+[  11304.05s] SFC 248 COMPLETED
+[  11328.74s] SFC 260 COMPLETED
+[  11341.21s] SFC 449 COMPLETED
+[  11390.14s] SFC 301 COMPLETED
+[  11482.47s] SFC 512 COMPLETED
+[  11487.80s] SFC 163 COMPLETED
+[  11518.39s] SFC 628 COMPLETED
+[  11534.07s] SFC 428 COMPLETED
+[  11537.35s] SFC 453 COMPLETED
+[  11540.56s] SFC 429 COMPLETED
+[  11687.65s] SFC 264 COMPLETED
+[  11696.47s] SFC 435 COMPLETED
+[  11733.18s] SFC 425 COMPLETED
+[  11799.39s] SFC 633 COMPLETED
+[  11872.13s] SFC 391 COMPLETED
+[  12138.41s] SFC 643 COMPLETED
+[  12196.87s] SFC 249 COMPLETED
+[  12214.13s] SFC 622 COMPLETED
+[  12252.18s] SFC 525 COMPLETED
+[  12338.63s] SFC 625 COMPLETED
+[  12413.66s] SFC 8 COMPLETED
+[  12450.55s] SFC 371 COMPLETED
+[  12484.69s] SFC 2 COMPLETED
+[  12545.88s] SFC 339 COMPLETED
+[  12681.11s] SFC 518 COMPLETED
+[  12736.28s] SFC 169 COMPLETED
+[  12744.32s] SFC 556 COMPLETED
+[  12757.27s] SFC 596 COMPLETED
+[  12763.23s] SFC 317 COMPLETED
+[  12776.74s] SFC 202 COMPLETED
+[  12831.87s] SFC 146 COMPLETED
+[  12916.36s] SFC 585 COMPLETED
+[  12987.41s] SFC 591 COMPLETED
+[  13004.69s] SFC 188 COMPLETED
+[  13011.06s] SFC 411 COMPLETED
+[  13048.27s] SFC 581 COMPLETED
+[  13067.64s] SFC 610 COMPLETED
+[  13154.52s] SFC 599 COMPLETED
+[  13165.13s] SFC 246 COMPLETED
+[  13210.27s] SFC 494 COMPLETED
+[  13217.17s] SFC 372 COMPLETED
+[  13307.13s] SFC 550 COMPLETED
+[  13400.98s] SFC 474 COMPLETED
+[  13448.87s] SFC 446 COMPLETED
+[  13549.92s] SFC 213 COMPLETED
+[  13678.61s] SFC 567 COMPLETED
+[  13708.69s] SFC 491 COMPLETED
+[  13960.09s] SFC 561 COMPLETED
+[  14185.38s] SFC 543 COMPLETED
+[  14213.87s] SFC 636 COMPLETED
+[  14241.02s] SFC 178 COMPLETED
+[  14354.11s] SFC 438 COMPLETED
+[  14363.82s] SFC 68 COMPLETED
+[  14364.65s] SFC 365 COMPLETED
+[  14400.46s] SFC 519 COMPLETED
+[  14444.73s] SFC 537 COMPLETED
+[  14735.48s] SFC 193 COMPLETED
+[  14900.71s] SFC 468 COMPLETED
+[  14905.21s] SFC 638 COMPLETED
+[  14905.70s] SFC 521 COMPLETED
+[  14933.55s] SFC 607 COMPLETED
+[  14974.98s] SFC 192 COMPLETED
+[  15062.68s] SFC 450 COMPLETED
+[  15117.22s] SFC 266 COMPLETED
+[  15177.28s] SFC 645 COMPLETED
+[  15195.84s] SFC 206 COMPLETED
+[  15295.95s] SFC 630 COMPLETED
+[  15296.61s] SFC 220 COMPLETED
+[  15484.58s] SFC 538 COMPLETED
+[  15525.17s] SFC 191 COMPLETED
+[  15527.27s] SFC 632 COMPLETED
+[  15552.75s] SFC 536 COMPLETED
+[  15686.07s] SFC 379 COMPLETED
+[  15702.24s] SFC 290 COMPLETED
+[  15912.88s] SFC 347 COMPLETED
+[  15947.61s] SFC 544 COMPLETED
+[  16020.60s] SFC 93 COMPLETED
+[  16100.16s] SFC 469 COMPLETED
+[  16256.11s] SFC 427 COMPLETED
+[  16281.79s] SFC 470 COMPLETED
+[  16403.65s] SFC 637 COMPLETED
+[  16472.97s] SFC 568 COMPLETED
+[  16639.58s] SFC 617 COMPLETED
+[  16689.57s] SFC 619 COMPLETED
+[  16725.84s] SFC 272 COMPLETED
+[  16970.27s] SFC 314 COMPLETED
+[  17136.96s] SFC 564 COMPLETED
+[  17306.67s] SFC 601 COMPLETED
+[  17500.20s] SFC 620 COMPLETED
+[  17804.16s] SFC 311 COMPLETED
+[  17917.08s] SFC 94 COMPLETED
+[  17986.54s] SFC 644 COMPLETED
+[  18010.54s] SFC 473 COMPLETED
+[  18594.47s] SFC 520 COMPLETED
+[  19083.53s] SFC 138 COMPLETED
+[  20269.62s] SFC 597 COMPLETED
+[  20276.57s] SFC 604 COMPLETED
+[  22722.79s] SFC 16 COMPLETED
+[  23705.91s] SFC 641 COMPLETED
+[  24763.61s] SFC 123 COMPLETED
+[  28040.84s] SFC 69 COMPLETED
+[  38408.54s] SFC 478 COMPLETED
+[  38408.54s] Saved: lifecycle_events_edge_cloud.csv
