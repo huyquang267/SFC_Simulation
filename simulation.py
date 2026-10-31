@@ -114,6 +114,13 @@ class Simulation:
                 else:
                     record["cloud_cnf_terminated"] += count
 
+    def after_admission(self, old_manager):
+        """Hook: gọi sau mỗi lần Re-embed All thành công.
+
+        old_manager.active giữ placement trước khi re-embed,
+        self.manager.active là placement mới.
+        """
+
     def handle_request(self, request):
         yield self.env.timeout(
             request.arrival_time - self.env.now
@@ -138,7 +145,9 @@ class Simulation:
             )
             return
 
+        old_manager = self.manager
         self.manager = candidate
+        self.after_admission(old_manager)
 
         record["accepted"] += 1
         record["existing_cnf_relocations"] += len(relocations)

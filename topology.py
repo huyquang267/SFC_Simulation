@@ -76,8 +76,8 @@ def build_topology():
     if k < 2 or k % 2 != 0:
         raise ValueError("FAT_TREE_K phải là số chẵn, >= 2")
 
-    if CLOUD_SERVERS != k ** 3 // 4:
-        raise ValueError("Số server không khớp fat-tree")
+    if not 1 <= CLOUD_SERVERS <= k ** 3 // 4:
+        raise ValueError("Số server vượt quá số khe của fat-tree")
 
     if len(EDGE_INGRESS) != EDGE_CLUSTERS:
         raise ValueError("Số điểm ingress không khớp số cụm edge")
@@ -172,6 +172,9 @@ def build_topology():
                 )
 
             for _ in range(half):
+                if server_index >= CLOUD_SERVERS:
+                    break
+
                 server_id = f"server_{server_index}"
 
                 device = Device(

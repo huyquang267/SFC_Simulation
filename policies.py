@@ -1,4 +1,5 @@
 import copy
+import dataclasses
 import networkx as nx
 
 from config import CNF_ORDER, CPU_EDGE, CPU_CLOUD
@@ -6,6 +7,8 @@ from embedding import ResourceManager
 
 
 EPSILON = 1e-9
+
+_NEARBY_CACHE = {}
 
 
 def device_number(device_id):
@@ -15,26 +18,39 @@ def device_number(device_id):
     )
 
 
+# Thứ tự server cố định -> sort một lần rồi cache.
+_SORTED_SERVERS = {}
+
+
+def _sorted_servers(manager):
+    key = tuple(manager.servers)
+    cached = _SORTED_SERVERS.get(key)
+    if cached is None:
+        cached = sorted(manager.servers, key=device_number)
+        _SORTED_SERVERS[key] = cached
+    return cached
+
+
 class CloudPolicy:
     name = "Cloud"
 
     @staticmethod
     def empty_copy(manager):
-        graph, edges, servers = copy.deepcopy(
-            (
-                manager.graph,
-                manager.edges,
-                manager.servers,
-            )
-        )
-
-        for device in list(edges.values()) + list(
-            servers.values()
-        ):
-            device.cpu_used = 0.0
+        # Bản sao nhẹ thay cho deepcopy (toàn bộ tài nguyên
+        # được đặt về 0 nên không cần sao chép sâu).
+        graph = manager.graph.copy()
 
         for _, _, data in graph.edges(data=True):
             data["bandwidth_used"] = 0.0
+
+        edges = {
+            key: dataclasses.replace(device, cpu_used=0.0)
+            for key, device in manager.edges.items()
+        }
+        servers = {
+            key: dataclasses.replace(device, cpu_used=0.0)
+            for key, device in manager.servers.items()
+        }
 
         return ResourceManager(
             graph,
@@ -52,10 +68,7 @@ class CloudPolicy:
     def place_cloud_cnfs(manager, cnfs, placement):
         planned_cpu = {}
 
-        server_ids = sorted(
-            manager.servers,
-            key=device_number,
-        )
+        server_ids = _sorted_servers(manager)
 
         for cnf in cnfs:
             demand = CPU_CLOUD[cnf]
@@ -286,6 +299,19 @@ class EdgeCloudEOPolicy(EdgeCloudPolicy):
 
     @staticmethod
     def nearby_edges(manager, source_device):
+        # Topology tĩnh -> cache thứ tự lân cận theo edge nguồn.
+        cached = _NEARBY_CACHE.get(source_device)
+        if cached is not None:
+            return cached
+
+        result = EdgeCloudEOPolicy._nearby_edges(
+            manager, source_device
+        )
+        _NEARBY_CACHE[source_device] = result
+        return result
+
+    @staticmethod
+    def _nearby_edges(manager, source_device):
         source_cluster = device_number(
             source_device
         )[0]

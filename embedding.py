@@ -16,6 +16,9 @@ CHAIN_BANDWIDTH = {
 
 EPSILON = 1e-9
 
+# (source, target) -> đường ngắn nhất trên topology đầy đủ.
+_PATH_CACHE = {}
+
 
 @dataclass
 class Allocation:
@@ -115,6 +118,35 @@ class ResourceManager:
                 continue
 
             demand = CHAIN_BANDWIDTH[pair]
+
+            # Tăng tốc: thử đường ngắn nhất đã cache trước
+            # (topology tĩnh). Nếu đủ băng thông thì dùng luôn,
+            # cho kết quả cùng số hop như BFS có lọc.
+            cache_key = (source, target)
+            cached = _PATH_CACHE.get(cache_key)
+
+            if cached is None:
+                cached = nx.shortest_path(
+                    self.graph, source=source, target=target,
+                )
+                _PATH_CACHE[cache_key] = cached
+
+            if all(
+                self.graph[u][v]["bandwidth_capacity"]
+                - self.graph[u][v]["bandwidth_used"]
+                - bandwidth_reserved.get(self.link_key(u, v), 0.0)
+                + EPSILON >= demand
+                for u, v in zip(cached[:-1], cached[1:])
+            ):
+                paths[pair] = cached
+
+                for u, v in zip(cached[:-1], cached[1:]):
+                    key = self.link_key(u, v)
+                    bandwidth_reserved[key] = (
+                        bandwidth_reserved.get(key, 0.0) + demand
+                    )
+
+                continue
 
             def link_has_capacity(u, v):
                 key = self.link_key(u, v)
