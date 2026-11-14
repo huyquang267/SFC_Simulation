@@ -1,0 +1,9 @@
+# Bỏ qua toàn bộ các file log
+*.log
+
+# Bỏ qua các file csv lưu sự kiện vòng đời (rất nặng)
+lifecycle_events_*.csv
+
+# Bỏ qua các file đệm của Python sinh ra lúc chạy
+__pycache__/
+*.pyc
